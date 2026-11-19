@@ -46,7 +46,7 @@ Haz doble clic en el archivo `index.html`. El archivo se abrirá automáticament
     - _Ejercicios_
     - _Prácticas_
 
-Al hacer clic en una de las tres opciones te lleva a su apartado debido al uso de `<a href="apartado">. La vinculación a los apartados en la página se ha ejecutado mediante un `id="inicio` dentro de los `<section>`.
+Al hacer clic en una de las tres opciones te lleva a su apartado debido al uso de `<a href="apartado">`. La vinculación a los apartados en la página se ha ejecutado mediante un `id="inicio` dentro de los `<section>`.
 
 ### Tabla con Horarios
 - Incluye una tabla con los horarios de nuestra clase, mostrando los descansos de cada día y las asignaturas.
